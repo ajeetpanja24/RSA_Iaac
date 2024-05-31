@@ -12,4 +12,4 @@ db_subnet_name   = "db"
 db_subnet_prefix = "10.12.19.128/26"
 
 frontend_nsg_name = "frontend-nsg"
-allowed_ips       = ["122.161.50.132/32"] # Replace with your IP range
+allowed_ips       = ["122.161.50.132/32"] # Restricting Access with my IP Only
